@@ -6,8 +6,8 @@ REM de Windows (10:00, 12:00, 16:00).
 REM ============================================================
 
 REM --- AJUSTA ESTAS 3 RUTAS A TU COMPUTADORA ---
-SET REPO_DIR=C:\Dashboards\seguimiento-ot
-SET EXCEL_PATH=C:\Users\TU_USUARIO\OneDrive - Flexigrip\Seguimiento\SEGUIMIENTO_DE_OT1.xlsx
+SET REPO_DIR=https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+SET EXCEL_PATH="C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx"
 SET HTML_NAME=index.html
 REM ------------------------------------------------
 
