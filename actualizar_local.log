@@ -1,0 +1,28 @@
+ 
+===== Ejecucion: 09/07/2026 13:33:30.69 ===== 
+Already up to date.
+ERROR: no se encontró la plantilla HTML: index.html
+ERROR: fallo generar_dashboard_seguimiento.py 
+ 
+===== Ejecucion: 09/07/2026 13:37:52.98 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 3960 registros
+  Hoja 'LAMINACION' (LAM): 2352 registros
+  Hoja 'REFINADO' (REF): 3414 registros
+  Hoja 'POUCH' (POUCH): 2474 registros
+  Hoja 'SIDE WELD' (SW): 11603 registros
+Total de registros leídos: 23803
+Construyendo agregación por OT...
+Total de OT únicas: 2917
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7454 filas leídas de 'rep-ov-espec', 4434 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 54e13ed] Actualizacion automatica: 09/07/2026 13:37:57.82
+ 1 file changed, 21536 insertions(+)
+ create mode 100644 index.html
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   ec1bed2..54e13ed  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
