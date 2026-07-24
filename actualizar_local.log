@@ -26,3 +26,859 @@ To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
    ec1bed2..54e13ed  main -> main
 Cambios subidos correctamente. 
 ===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 10/07/2026  7:42:15.41 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 3960 registros
+  Hoja 'LAMINACION' (LAM): 2352 registros
+  Hoja 'REFINADO' (REF): 3414 registros
+  Hoja 'POUCH' (POUCH): 2474 registros
+  Hoja 'SIDE WELD' (SW): 11603 registros
+Total de registros leídos: 23803
+Construyendo agregación por OT...
+Total de OT únicas: 2917
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7516 filas leídas de 'rep-ov-espec', 4462 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 666d07f] Actualizacion automatica: 10/07/2026  7:42:23.45
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   a6e7c0a..666d07f  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 10/07/2026 10:00:02.28 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 3960 registros
+  Hoja 'LAMINACION' (LAM): 2368 registros
+  Hoja 'REFINADO' (REF): 3414 registros
+  Hoja 'POUCH' (POUCH): 2474 registros
+  Hoja 'SIDE WELD' (SW): 11685 registros
+Total de registros leídos: 23901
+Construyendo agregación por OT...
+Total de OT únicas: 2928
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7516 filas leídas de 'rep-ov-espec', 4462 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 0f6f2fd] Actualizacion automatica: 10/07/2026 10:00:09.10
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   666d07f..0f6f2fd  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 10/07/2026 12:00:04.73 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 3960 registros
+  Hoja 'LAMINACION' (LAM): 2368 registros
+  Hoja 'REFINADO' (REF): 3414 registros
+  Hoja 'POUCH' (POUCH): 2474 registros
+  Hoja 'SIDE WELD' (SW): 11685 registros
+Total de registros leídos: 23901
+Construyendo agregación por OT...
+Total de OT únicas: 2928
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7516 filas leídas de 'rep-ov-espec', 4462 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main f99b397] Actualizacion automatica: 10/07/2026 12:00:13.35
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   0f6f2fd..f99b397  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 10/07/2026 16:00:02.31 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 3998 registros
+  Hoja 'LAMINACION' (LAM): 2368 registros
+  Hoja 'REFINADO' (REF): 3432 registros
+  Hoja 'POUCH' (POUCH): 2497 registros
+  Hoja 'SIDE WELD' (SW): 11685 registros
+Total de registros leídos: 23980
+Construyendo agregación por OT...
+Total de OT únicas: 2943
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7516 filas leídas de 'rep-ov-espec', 4462 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main b44f7ce] Actualizacion automatica: 10/07/2026 16:00:09.24
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   f99b397..b44f7ce  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 11/07/2026 10:00:02.52 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 3998 registros
+  Hoja 'LAMINACION' (LAM): 2368 registros
+  Hoja 'REFINADO' (REF): 3451 registros
+  Hoja 'POUCH' (POUCH): 2517 registros
+  Hoja 'SIDE WELD' (SW): 11685 registros
+Total de registros leídos: 24019
+Construyendo agregación por OT...
+Total de OT únicas: 2944
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7561 filas leídas de 'rep-ov-espec', 4481 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 5125cbe] Actualizacion automatica: 11/07/2026 10:00:12.38
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   b44f7ce..5125cbe  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 11/07/2026 12:00:02.29 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4016 registros
+  Hoja 'LAMINACION' (LAM): 2383 registros
+  Hoja 'REFINADO' (REF): 3451 registros
+  Hoja 'POUCH' (POUCH): 2517 registros
+  Hoja 'SIDE WELD' (SW): 11770 registros
+Total de registros leídos: 24137
+Construyendo agregación por OT...
+Total de OT únicas: 2962
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7561 filas leídas de 'rep-ov-espec', 4481 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main ab0b675] Actualizacion automatica: 11/07/2026 12:00:11.30
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   5125cbe..ab0b675  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 13/07/2026 10:00:01.99 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4016 registros
+  Hoja 'LAMINACION' (LAM): 2383 registros
+  Hoja 'REFINADO' (REF): 3451 registros
+  Hoja 'POUCH' (POUCH): 2517 registros
+  Hoja 'SIDE WELD' (SW): 11841 registros
+Total de registros leídos: 24208
+Construyendo agregación por OT...
+Total de OT únicas: 2965
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7561 filas leídas de 'rep-ov-espec', 4481 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 2c3f136] Actualizacion automatica: 13/07/2026 10:00:10.61
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   ab0b675..2c3f136  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 13/07/2026 12:00:01.92 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4016 registros
+  Hoja 'LAMINACION' (LAM): 2383 registros
+  Hoja 'REFINADO' (REF): 3451 registros
+  Hoja 'POUCH' (POUCH): 2549 registros
+  Hoja 'SIDE WELD' (SW): 11841 registros
+Total de registros leídos: 24240
+Construyendo agregación por OT...
+Total de OT únicas: 2967
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7561 filas leídas de 'rep-ov-espec', 4481 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 5e01470] Actualizacion automatica: 13/07/2026 12:00:12.73
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   2c3f136..5e01470  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 13/07/2026 16:00:01.85 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4016 registros
+  Hoja 'LAMINACION' (LAM): 2383 registros
+  Hoja 'REFINADO' (REF): 3470 registros
+  Hoja 'POUCH' (POUCH): 2549 registros
+  Hoja 'SIDE WELD' (SW): 11848 registros
+Total de registros leídos: 24266
+Construyendo agregación por OT...
+Total de OT únicas: 2971
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7561 filas leídas de 'rep-ov-espec', 4481 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main d02b7f2] Actualizacion automatica: 13/07/2026 16:00:08.87
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   5e01470..d02b7f2  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 13/07/2026 16:33:58.60 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4049 registros
+  Hoja 'LAMINACION' (LAM): 2399 registros
+  Hoja 'REFINADO' (REF): 3470 registros
+  Hoja 'POUCH' (POUCH): 2549 registros
+  Hoja 'SIDE WELD' (SW): 11848 registros
+Total de registros leídos: 24315
+Construyendo agregación por OT...
+Total de OT únicas: 2986
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7561 filas leídas de 'rep-ov-espec', 4481 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main b57e8a7] Actualizacion automatica: 13/07/2026 16:34:04.60
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   d02b7f2..b57e8a7  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 14/07/2026 10:00:02.04 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4049 registros
+  Hoja 'LAMINACION' (LAM): 2399 registros
+  Hoja 'REFINADO' (REF): 3470 registros
+  Hoja 'POUCH' (POUCH): 2549 registros
+  Hoja 'SIDE WELD' (SW): 11848 registros
+Total de registros leídos: 24315
+Construyendo agregación por OT...
+Total de OT únicas: 2986
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 2b7ecff] Actualizacion automatica: 14/07/2026 10:00:15.17
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   b57e8a7..2b7ecff  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 14/07/2026 12:00:01.87 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4049 registros
+  Hoja 'LAMINACION' (LAM): 2399 registros
+  Hoja 'REFINADO' (REF): 3484 registros
+  Hoja 'POUCH' (POUCH): 2568 registros
+  Hoja 'SIDE WELD' (SW): 11932 registros
+Total de registros leídos: 24432
+Construyendo agregación por OT...
+Total de OT únicas: 2993
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 922ac98] Actualizacion automatica: 14/07/2026 12:00:12.81
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   2b7ecff..922ac98  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 14/07/2026 16:00:01.87 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4073 registros
+  Hoja 'LAMINACION' (LAM): 2413 registros
+  Hoja 'REFINADO' (REF): 3484 registros
+  Hoja 'POUCH' (POUCH): 2568 registros
+  Hoja 'SIDE WELD' (SW): 11932 registros
+Total de registros leídos: 24470
+Construyendo agregación por OT...
+Total de OT únicas: 3009
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 32d9758] Actualizacion automatica: 14/07/2026 16:00:09.32
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   922ac98..32d9758  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 15/07/2026 16:00:01.71 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4089 registros
+  Hoja 'LAMINACION' (LAM): 2428 registros
+  Hoja 'REFINADO' (REF): 3496 registros
+  Hoja 'POUCH' (POUCH): 2588 registros
+  Hoja 'SIDE WELD' (SW): 12016 registros
+Total de registros leídos: 24617
+Construyendo agregación por OT...
+Total de OT únicas: 3024
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 7ed4b1f] Actualizacion automatica: 15/07/2026 16:00:11.73
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   32d9758..7ed4b1f  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 15/07/2026 16:35:50.32 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4089 registros
+  Hoja 'LAMINACION' (LAM): 2428 registros
+  Hoja 'REFINADO' (REF): 3496 registros
+  Hoja 'POUCH' (POUCH): 2588 registros
+  Hoja 'SIDE WELD' (SW): 12016 registros
+Total de registros leídos: 24617
+Construyendo agregación por OT...
+Total de OT únicas: 3024
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main c9ccc1a] Actualizacion automatica: 15/07/2026 16:35:56.98
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   7ed4b1f..c9ccc1a  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 15/07/2026 16:41:31.72 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4089 registros
+  Hoja 'LAMINACION' (LAM): 2428 registros
+  Hoja 'REFINADO' (REF): 3496 registros
+  Hoja 'POUCH' (POUCH): 2588 registros
+  Hoja 'SIDE WELD' (SW): 12016 registros
+Total de registros leídos: 24617
+Construyendo agregación por OT...
+Total de OT únicas: 3024
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main b993126] Actualizacion automatica: 15/07/2026 16:41:37.83
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   c9ccc1a..b993126  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 16/07/2026 10:00:01.93 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4089 registros
+  Hoja 'LAMINACION' (LAM): 2428 registros
+  Hoja 'REFINADO' (REF): 3496 registros
+  Hoja 'POUCH' (POUCH): 2588 registros
+  Hoja 'SIDE WELD' (SW): 12096 registros
+Total de registros leídos: 24697
+Construyendo agregación por OT...
+Total de OT únicas: 3024
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 7b46dbb] Actualizacion automatica: 16/07/2026 10:00:12.47
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   b993126..7b46dbb  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 16/07/2026 16:00:01.86 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4121 registros
+  Hoja 'LAMINACION' (LAM): 2445 registros
+  Hoja 'REFINADO' (REF): 3513 registros
+  Hoja 'POUCH' (POUCH): 2608 registros
+  Hoja 'SIDE WELD' (SW): 12096 registros
+Total de registros leídos: 24783
+Construyendo agregación por OT...
+Total de OT únicas: 3045
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 9536741] Actualizacion automatica: 16/07/2026 16:00:11.63
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   7b46dbb..9536741  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 17/07/2026 10:00:01.78 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4121 registros
+  Hoja 'LAMINACION' (LAM): 2445 registros
+  Hoja 'REFINADO' (REF): 3513 registros
+  Hoja 'POUCH' (POUCH): 2608 registros
+  Hoja 'SIDE WELD' (SW): 12096 registros
+Total de registros leídos: 24783
+Construyendo agregación por OT...
+Total de OT únicas: 3045
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main e932929] Actualizacion automatica: 17/07/2026 10:00:12.27
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   9536741..e932929  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 17/07/2026 12:00:02.11 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4121 registros
+  Hoja 'LAMINACION' (LAM): 2463 registros
+  Hoja 'REFINADO' (REF): 3513 registros
+  Hoja 'POUCH' (POUCH): 2608 registros
+  Hoja 'SIDE WELD' (SW): 12096 registros
+Total de registros leídos: 24801
+Construyendo agregación por OT...
+Total de OT únicas: 3048
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 35bc125] Actualizacion automatica: 17/07/2026 12:00:14.51
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   e932929..35bc125  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 17/07/2026 16:00:01.66 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4139 registros
+  Hoja 'LAMINACION' (LAM): 2463 registros
+  Hoja 'REFINADO' (REF): 3535 registros
+  Hoja 'POUCH' (POUCH): 2628 registros
+  Hoja 'SIDE WELD' (SW): 12174 registros
+Total de registros leídos: 24939
+Construyendo agregación por OT...
+Total de OT únicas: 3063
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 055368c] Actualizacion automatica: 17/07/2026 16:00:10.85
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   35bc125..055368c  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 18/07/2026 10:00:01.72 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4139 registros
+  Hoja 'LAMINACION' (LAM): 2463 registros
+  Hoja 'REFINADO' (REF): 3535 registros
+  Hoja 'POUCH' (POUCH): 2628 registros
+  Hoja 'SIDE WELD' (SW): 12174 registros
+Total de registros leídos: 24939
+Construyendo agregación por OT...
+Total de OT únicas: 3063
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 20fb6ea] Actualizacion automatica: 18/07/2026 10:00:13.46
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   055368c..20fb6ea  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 18/07/2026 12:00:03.14 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4139 registros
+  Hoja 'LAMINACION' (LAM): 2463 registros
+  Hoja 'REFINADO' (REF): 3535 registros
+  Hoja 'POUCH' (POUCH): 2628 registros
+  Hoja 'SIDE WELD' (SW): 12258 registros
+Total de registros leídos: 25023
+Construyendo agregación por OT...
+Total de OT únicas: 3070
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 6e5b129] Actualizacion automatica: 18/07/2026 12:00:13.51
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   20fb6ea..6e5b129  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 20/07/2026 10:00:01.74 ===== 
+fatal: unable to access 'https://github.com/procesosflexigrip-hash/dashboard_ventas.git/': Could not resolve host: github.com
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4163 registros
+  Hoja 'LAMINACION' (LAM): 2475 registros
+  Hoja 'REFINADO' (REF): 3553 registros
+  Hoja 'POUCH' (POUCH): 2649 registros
+  Hoja 'SIDE WELD' (SW): 12258 registros
+Total de registros leídos: 25098
+Construyendo agregación por OT...
+Total de OT únicas: 3081
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 4ce4f64] Actualizacion automatica: 20/07/2026 10:00:10.03
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+fatal: unable to access 'https://github.com/procesosflexigrip-hash/dashboard_ventas.git/': Could not resolve host: github.com
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 20/07/2026 12:00:01.52 ===== 
+fatal: unable to access 'https://github.com/procesosflexigrip-hash/dashboard_ventas.git/': Could not resolve host: github.com
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4163 registros
+  Hoja 'LAMINACION' (LAM): 2475 registros
+  Hoja 'REFINADO' (REF): 3553 registros
+  Hoja 'POUCH' (POUCH): 2649 registros
+  Hoja 'SIDE WELD' (SW): 12258 registros
+Total de registros leídos: 25098
+Construyendo agregación por OT...
+Total de OT únicas: 3081
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 74cb45a] Actualizacion automatica: 20/07/2026 12:00:08.30
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+fatal: unable to access 'https://github.com/procesosflexigrip-hash/dashboard_ventas.git/': Could not resolve host: github.com
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 20/07/2026 16:00:01.64 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4163 registros
+  Hoja 'LAMINACION' (LAM): 2475 registros
+  Hoja 'REFINADO' (REF): 3572 registros
+  Hoja 'POUCH' (POUCH): 2676 registros
+  Hoja 'SIDE WELD' (SW): 12318 registros
+Total de registros leídos: 25204
+Construyendo agregación por OT...
+Total de OT únicas: 3095
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 0533a4c] Actualizacion automatica: 20/07/2026 16:00:10.58
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   6e5b129..0533a4c  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 20/07/2026 16:29:32.05 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4204 registros
+  Hoja 'LAMINACION' (LAM): 2495 registros
+  Hoja 'REFINADO' (REF): 3572 registros
+  Hoja 'POUCH' (POUCH): 2676 registros
+  Hoja 'SIDE WELD' (SW): 12318 registros
+Total de registros leídos: 25265
+Construyendo agregación por OT...
+Total de OT únicas: 3108
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main ab1216d] Actualizacion automatica: 20/07/2026 16:29:37.13
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   0533a4c..ab1216d  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 21/07/2026 10:00:01.58 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4204 registros
+  Hoja 'LAMINACION' (LAM): 2495 registros
+  Hoja 'REFINADO' (REF): 3572 registros
+  Hoja 'POUCH' (POUCH): 2676 registros
+  Hoja 'SIDE WELD' (SW): 12321 registros
+Total de registros leídos: 25268
+Construyendo agregación por OT...
+Total de OT únicas: 3108
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main d02ddfd] Actualizacion automatica: 21/07/2026 10:00:14.38
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   ab1216d..d02ddfd  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 21/07/2026 12:00:02.49 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4204 registros
+  Hoja 'LAMINACION' (LAM): 2510 registros
+  Hoja 'REFINADO' (REF): 3592 registros
+  Hoja 'POUCH' (POUCH): 2676 registros
+  Hoja 'SIDE WELD' (SW): 12398 registros
+Total de registros leídos: 25380
+Construyendo agregación por OT...
+Total de OT únicas: 3116
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 9113b50] Actualizacion automatica: 21/07/2026 12:00:14.34
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   d02ddfd..9113b50  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 21/07/2026 16:00:01.57 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4226 registros
+  Hoja 'LAMINACION' (LAM): 2510 registros
+  Hoja 'REFINADO' (REF): 3592 registros
+  Hoja 'POUCH' (POUCH): 2695 registros
+  Hoja 'SIDE WELD' (SW): 12398 registros
+Total de registros leídos: 25421
+Construyendo agregación por OT...
+Total de OT únicas: 3125
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 61dff74] Actualizacion automatica: 21/07/2026 16:00:13.71
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   9113b50..61dff74  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 22/07/2026 10:00:01.61 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4226 registros
+  Hoja 'LAMINACION' (LAM): 2510 registros
+  Hoja 'REFINADO' (REF): 3592 registros
+  Hoja 'POUCH' (POUCH): 2695 registros
+  Hoja 'SIDE WELD' (SW): 12398 registros
+Total de registros leídos: 25421
+Construyendo agregación por OT...
+Total de OT únicas: 3125
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 265b2ae] Actualizacion automatica: 22/07/2026 10:00:14.40
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   61dff74..265b2ae  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 22/07/2026 12:00:02.36 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4226 registros
+  Hoja 'LAMINACION' (LAM): 2523 registros
+  Hoja 'REFINADO' (REF): 3606 registros
+  Hoja 'POUCH' (POUCH): 2718 registros
+  Hoja 'SIDE WELD' (SW): 12479 registros
+Total de registros leídos: 25552
+Construyendo agregación por OT...
+Total de OT únicas: 3133
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 083f6d1] Actualizacion automatica: 22/07/2026 12:00:10.79
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   265b2ae..083f6d1  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 22/07/2026 16:00:01.53 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4253 registros
+  Hoja 'LAMINACION' (LAM): 2523 registros
+  Hoja 'REFINADO' (REF): 3606 registros
+  Hoja 'POUCH' (POUCH): 2718 registros
+  Hoja 'SIDE WELD' (SW): 12479 registros
+Total de registros leídos: 25579
+Construyendo agregación por OT...
+Total de OT únicas: 3147
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main ac029e2] Actualizacion automatica: 22/07/2026 16:00:10.32
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   083f6d1..ac029e2  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 23/07/2026 10:00:02.34 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4253 registros
+  Hoja 'LAMINACION' (LAM): 2523 registros
+  Hoja 'REFINADO' (REF): 3606 registros
+  Hoja 'POUCH' (POUCH): 2718 registros
+  Hoja 'SIDE WELD' (SW): 12479 registros
+Total de registros leídos: 25579
+Construyendo agregación por OT...
+Total de OT únicas: 3147
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 8ae1bbd] Actualizacion automatica: 23/07/2026 10:00:13.46
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   ac029e2..8ae1bbd  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 23/07/2026 12:00:02.78 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4253 registros
+  Hoja 'LAMINACION' (LAM): 2539 registros
+  Hoja 'REFINADO' (REF): 3606 registros
+  Hoja 'POUCH' (POUCH): 2718 registros
+  Hoja 'SIDE WELD' (SW): 12562 registros
+Total de registros leídos: 25678
+Construyendo agregación por OT...
+Total de OT únicas: 3154
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main ee170b0] Actualizacion automatica: 23/07/2026 12:00:11.03
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   8ae1bbd..ee170b0  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 23/07/2026 16:00:01.93 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4272 registros
+  Hoja 'LAMINACION' (LAM): 2539 registros
+  Hoja 'REFINADO' (REF): 3619 registros
+  Hoja 'POUCH' (POUCH): 2739 registros
+  Hoja 'SIDE WELD' (SW): 12562 registros
+Total de registros leídos: 25731
+Construyendo agregación por OT...
+Total de OT únicas: 3165
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 7617 filas leídas de 'rep-ov-espec', 4487 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 6dfc048] Actualizacion automatica: 23/07/2026 16:00:11.43
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   ee170b0..6dfc048  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 24/07/2026 10:00:02.00 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4272 registros
+  Hoja 'LAMINACION' (LAM): 2539 registros
+  Hoja 'REFINADO' (REF): 3619 registros
+  Hoja 'POUCH' (POUCH): 2739 registros
+  Hoja 'SIDE WELD' (SW): 12645 registros
+Total de registros leídos: 25814
+Construyendo agregación por OT...
+Total de OT únicas: 3167
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 8094 filas leídas de 'rep-ov-espec', 4714 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 1dff2d4] Actualizacion automatica: 24/07/2026 10:00:10.14
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   6dfc048..1dff2d4  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 24/07/2026 16:00:01.94 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4272 registros
+  Hoja 'LAMINACION' (LAM): 2553 registros
+  Hoja 'REFINADO' (REF): 3637 registros
+  Hoja 'POUCH' (POUCH): 2756 registros
+  Hoja 'SIDE WELD' (SW): 12645 registros
+Total de registros leídos: 25863
+Construyendo agregación por OT...
+Total de OT únicas: 3170
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 8094 filas leídas de 'rep-ov-espec', 4714 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main 97834e8] Actualizacion automatica: 24/07/2026 16:00:10.81
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   1dff2d4..97834e8  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
+ 
+===== Ejecucion: 24/07/2026 16:10:20.16 ===== 
+Already up to date.
+Leyendo Excel: C:\Users\Efrén Buendía Hernán\OneDrive - Flexi Grip de México S. A. de C. V\Eduardo Garcia's files - Control de Piso\SEGUIMIENTO DE OT1.xlsx
+  Hoja 'IMPRESION' (IMP): 4272 registros
+  Hoja 'LAMINACION' (LAM): 2553 registros
+  Hoja 'REFINADO' (REF): 3637 registros
+  Hoja 'POUCH' (POUCH): 2756 registros
+  Hoja 'SIDE WELD' (SW): 12645 registros
+Total de registros leídos: 25863
+Construyendo agregación por OT...
+Total de OT únicas: 3170
+Construyendo catálogo (cliente / descripción / kg especificados)...
+  Catálogo: 8094 filas leídas de 'rep-ov-espec', 4714 OT únicas
+Actualizando HTML -> index.html
+Listo.
+[main fe86bfc] Actualizacion automatica: 24/07/2026 16:10:26.77
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/procesosflexigrip-hash/dashboard_ventas.git
+   97834e8..fe86bfc  main -> main
+Cambios subidos correctamente. 
+===== Fin ejecucion ===== 
